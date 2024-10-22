@@ -1,0 +1,94 @@
+html,body {height: 100%;}
+        header {background-color: olive;
+            color: white;
+            padding: 20px;
+        }
+
+        header h1 a {
+            color: white;
+            text-decoration: none;
+        }
+
+        header h1 a:hover {
+            color:green;
+            
+        }
+
+        nav { 
+            background-color: cadetblue;
+            color: white;
+            padding: 5px;
+            
+            
+
+        }
+        nav ul {
+            list-style: none;
+            
+        }
+
+        nav ul li{
+            display: inline;
+            text-transform: uppercase;
+            padding: 10px;
+        }
+
+        nav ul li a {
+            text-decoration: none;
+            color: white;
+        }
+
+        nav ul li a:hover {
+            color: blue;
+           
+        }
+
+        
+
+        aside div{
+            background-color: bisque;
+            width: 32%;
+            float: right;
+            text-align: center;
+        
+        }
+
+
+        section {
+            background-color:lightcyan;
+            width: 65%;
+            float: left;
+
+            
+        }
+
+        footer {
+            background-color: lightgrey;
+            clear: both;
+        }
+
+        article {
+            background-color: white;
+        }
+
+        footer ul {
+            list-style: none;
+            text-align: center;
+        }
+
+        footer ul li {
+            display: inline;
+            padding: 15px;
+            
+        }
+
+       .nut:hover {
+            box-shadow: 0 15px 16px 0 rgba(6, 6, 6, 0.2);
+          }
+
+        .good { 
+            background-color: yellow;
+            display: inline;
+        }
+
+       
